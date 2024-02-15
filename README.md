@@ -1,6 +1,6 @@
 # test
 This repository is for learning about GitHub
 
-I am 17
-I am in the CS Academy
-crazy
+/nI am 17
+/nI am in the CS Academy
+/ncrazy
